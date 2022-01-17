@@ -2,7 +2,7 @@
 Calculate damage from unit in AoS3.0
 
 How to run:
-Place script in folder and run python damageCalculator.py -h for a list of options
+Place script in folder and run "python damageCalculator.py -h" for a list of options
 
 Weapon profiles are given as "python damageCalculator.py -w 10/3/3/0/1 20/4/4/2/d3" 
 
