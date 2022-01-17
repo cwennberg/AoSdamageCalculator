@@ -1,5 +1,6 @@
 # AoSdamageCalculator
 Calculate damage from unit in AoS3.0
+
 How to run:
 Place script in folder and run python damageCalculator.py -h for a list of options
 
